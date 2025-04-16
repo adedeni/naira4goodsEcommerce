@@ -1,0 +1,438 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000;
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;  
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
+/*my code start here*/
+
+/*my header*/
+body{
+    overflow-x: hidden;
+}
+header{
+   width: 100%;
+   height: 180px;
+   overflow: hidden;
+}
+header .logo-banner{
+    display: flex;
+    width: 100%;
+    height: 50px;
+    padding: 30px 150px 0px 100px;
+}
+.logo-banner img{
+    margin-top: -35px;
+}
+.logo-banner h1{
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+   color: hsl(300, 100%, 25%);
+    padding-right: 10px;
+}
+.logo-banner .Allproduct_dropdownMenu{
+    background-color: #f7f7f7;
+}
+.logo-banner input{
+    background: none;
+    border: none;
+    outline: none;
+    width: 500px;
+}
+.logo-banner select{
+    border: 1px solid  #e6e6e6;
+    background: #f7f7f7;
+   margin-bottom: 20px;
+    padding-left: 10px;
+    border-radius: 20px;
+    height: 35px;
+    outline: none;
+}
+.logo-banner .search{
+background-color: #f7f7f7;
+width: 600px;
+border: 1px solid #e6e6e6;
+border-radius: 20px;
+height: 31px;
+margin-left: 5px;
+padding-top: 5px;
+}
+.logo-banner .search span{
+    float: right;
+}
+.right-menus span{
+    border-right: 1px solid #ccc;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+header .nav-bar{
+    display: flex;
+    background-color: hsl(300, 100%, 25%);
+    width: 100%;
+    padding: 18px 150px 18px 100px;
+}
+
+nav ul{
+list-style: none;
+}
+nav ul li{
+    display: inline-block;
+    padding-left:15px;
+}
+nav ul li a{
+    font-family: "lato";
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+}
+.last-nav-bar{
+    display: flex;
+    background-color: #f1f1f1;
+    width: 100%;
+    padding: 18px 150px 18px 75px;
+}
+.last-nav-bar span {
+    padding-left: 40px;
+   margin-top: -15px;
+}
+.last-nav-bar .icon.material-symbols-outlined{
+    color: #cccccc;
+}
+ .last-nav-bar p,a{
+    color: #10439F;
+    text-decoration: none;
+    font-family:'lato';
+}
+/*my header ends here*/
+
+.how_to_register{
+    display: flex;
+    background-color: #f8f9fa;
+    width: 100%;
+    height: 550px;
+}
+.how_to_register .wrapper{
+    display: flex;
+    height: 400px;
+    width: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 70px;
+}
+.col_icons{
+    width: 12%;
+    height: 100%;
+}
+.col_icons div{
+    width: 80px;
+    height: 80px;
+   
+}
+.col_icons .box1{
+    background-color: #eef0fa;
+}
+.col_icons .box2{
+    background-color: #f8eeef;
+    margin-top: -10px;
+}
+.col_icons .box3{
+    background-color: #edf6f1;
+    margin-top: -10px;
+}
+.box1 span{
+    margin-top: 25px;
+    color: hsl(300, 100%, 25%);
+
+}
+.box2 span{
+    margin-top: 25px;
+    color: #F27BBD;
+}
+.box3 span{
+    margin-top: 25px;
+    color: #10439F;
+}
+.col_steps{
+    width: 40%;
+    height: 100%;
+}
+.col_steps h1{
+    font-family: 'lato';
+    font-size: 24px;
+    line-height: 10px;
+    font-weight: 600;
+    padding-bottom: 10px;
+    color: #4c5c9e;
+}
+.col_steps p{
+    font-family: 'lato';
+    font-size: 16px;
+    line-height: 25px;
+    color: #919191;
+    padding-left: 1px;
+}
+.col_means_of_payment{
+    width: 48%;
+    height: 100%;
+}
+.col_means_of_payment img{
+    width: 50%;
+    height: 50%;
+    padding-left: 30px;
+    margin-top:70px
+}
+
+
+main .main{
+    display: flex;
+    background-color: #d1c3ff;
+    height: 180px;
+}
+.col1{
+    width: 60%;
+}
+
+.col1 h1{
+   padding-top: 50px;
+   padding-left: 500px;
+   font-weight: 900;
+   font-size: 40px;
+}
+.col2 img{
+    height: 180px;
+    width: 200px;
+    opacity: 1;
+}
+main p{
+    color: #919191;
+    line-height: 30px;
+    padding-left: 40px;
+    font-family: 'lato';
+}
+main h2, h6{
+    color: #4c5c9e;
+    line-height: 30px;
+    padding-left: 40px;
+}
+/*my footer*/
+
+footer{
+    margin-top: 60px;
+    width: 100%;  
+    padding-left: 20px;
+    background-color:#f6f6f6;
+}
+footer .wrapper{
+    display: flex;
+    width: 100%;  
+}
+footer .brand_logo_col{
+    padding-top: 5px;
+    width: 35%;
+    background-color:#f6f6f6;
+    overflow: hidden;
+}
+.brand_logo_col .logo{
+    width: 100px;
+    height: 100px;
+}
+.brand_logo_col p{
+    font-size: 14px;
+    font-family: 'lato';
+    color: #6b6b6a;
+    line-height: 20px;
+    padding-bottom: 10px;
+}
+.call_us{
+    width: 100%;
+    display: flex;
+}
+.call_us h1{
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.call_us span{
+    color: #6b6b6a;
+    font-size: 10px;
+    font-weight: 700;
+    font-family: 'lato';
+}
+.brand_logo_col h1{
+}
+.social_handle_icons{
+    color: #666666;
+    width: 20px;
+    height: 20px;
+    padding-left: 20px;
+    padding-top: 25px;
+    line-height: 20px;
+}
+footer .quick_links_columns{
+    padding-top: 40px;
+    display: flex;
+    width: 65%;
+    background-color:hsl(300, 100%, 25%);
+}
+.quick_link_col1{
+    width: 25%;
+    color: #fff;
+    padding-left: 30px;
+}
+.quick_links_columns h2{
+    border-bottom: 1px solid #ccc;  
+    padding-bottom: 10px;
+    font-family: 'lato';
+    font-size: 15px;
+    font-weight: 600;
+    width:fit-content;
+}
+
+.quick_link_col1 ul{
+    list-style: none;
+}
+.quick_link_col1 ul li{
+}
+.quick_link_col1 ul li a{
+    text-decoration: none;
+    color: #fff;
+    line-height: 40px;
+    font-family: 'lato';
+    font-size: 15px;
+}
+.quick_link_col2 ul{
+    list-style: none;
+}
+.quick_link_col2 ul li{
+}
+.quick_link_col2 ul li a{
+    text-decoration: none;
+    color: #fff;
+    line-height: 40px;
+    font-family: 'lato';
+    font-size: 15px;
+}
+.quick_link_col2{
+    width:25%;
+    color: #fff;
+    margin-left: 40px;
+    
+}
+
+.quick_link_col3{
+    color: #fff;
+    margin-left: 40px;
+}
+.quick_link_col3 p{
+    line-height: 50px;
+}
+.subscribe{
+    background-color: #F27BBD;
+    height: 40px;
+    border-radius: 20px;
+    width: 270px;
+}
+.subscribe input{
+    outline: none;
+    border: none;
+    padding: 15px 0px 15px 10px;
+    height: 10px;
+    border-radius:20px 0px 0px 20px;
+    width: 180px;
+}
+.quick_link_col3 p img{
+    padding-top: 10px;
+    width: 50%; 
+}
+
+/*my footer ends here*/

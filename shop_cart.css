@@ -1,0 +1,182 @@
+/My code starts here/
+
+header{
+   width: 100%;
+   height: 180px;
+   overflow: hidden;
+}
+header .logo-banner{
+    display: flex;
+    width: 100%;
+    height: 50px;
+    padding: 30px 150px 0px 100px;
+}
+.logo-banner img{
+    margin-top: -35px;
+}
+.logo-banner h1{
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+   color: hsl(300, 100%, 25%);
+    padding-right: 10px;
+}
+.logo-banner .Allproduct_dropdownMenu{
+    background-color: #f7f7f7;
+}
+.logo-banner input{
+    background: none;
+    border: none;
+    outline: none;
+    width: 500px;
+}
+.logo-banner select{
+    border: 1px solid  #e6e6e6;
+    background: #f7f7f7;
+   margin-bottom: 20px;
+    padding-left: 10px;
+    border-radius: 20px;
+    height: 35px;
+    outline: none;
+}
+.logo-banner .search{
+background-color: #f7f7f7;
+width: 600px;
+border: 1px solid #e6e6e6;
+border-radius: 20px;
+height: 31px;
+margin-left: 5px;
+padding-top: 5px;
+}
+.logo-banner .search span{
+    float: right;
+}
+.right-menus span{
+    border-right: 1px solid #ccc;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+header .nav-bar{
+    display: flex;
+    background-color: hsl(300, 100%, 25%);
+    width: 100%;
+    padding: 18px 150px 18px 100px;
+}
+
+nav ul{
+list-style: none;
+}
+nav ul li{
+    display: inline-block;
+    padding-left:15px;
+}
+nav ul li a{
+    font-family: "lato";
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+}
+.last-nav-bar{
+    display: flex;
+    background-color: #f1f1f1;
+    width: 100%;
+    padding: 18px 150px 18px 75px;
+}
+.last-nav-bar span {
+    padding-left: 40px;
+   margin-top: -15px;
+}
+.last-nav-bar .icon.material-symbols-outlined{
+    color: #cccccc;
+}
+ .last-nav-bar p,a{
+    color: #10439F;
+    text-decoration: none;
+    font-family: 'lato';
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.cart-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.cart-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.cart-item {
+    width: calc(25% - 20px);
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.cart-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px 5px 0 0;
+}
+
+.item-details {
+    padding: 10px;
+}
+
+.item-details h3 {
+    margin: 0;
+    font-size: 16px;
+}
+
+.item-details p {
+    margin: 5px 0;
+}
+
+.quantity-input {
+    width: 50px;
+}
+
+.remove-item {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.cart-summary {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.cart-summary p {
+    margin: 5px 0;
+}
+
+.cart-actions {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.checkout-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.continue-shopping {
+    color: #007bff;
+    text-decoration: none;
+}

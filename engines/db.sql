@@ -1,0 +1,10 @@
+CREATE TABLE users(
+		id INT(11) NOT NULL AUTO_INCREMENT,
+    	fullname VARCHAR(50) NOT NULL,
+    	username VARCHAR(50) NOT NULL,
+    	email VARCHAR(50) NOT NULL,
+    	phoneno VARCHAR(14) NOT NULL,
+    	pwd VARCHAR(100) NOT NULL,
+    	created_at DATETIME NOT NULL DEFAULT CURRENT_TIME,
+    	PRIMARY KEY (id)
+);

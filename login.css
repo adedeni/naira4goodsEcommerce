@@ -1,0 +1,249 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000;
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;  
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
+/* my code starts here*/
+body{
+    background-attachment: fixed;
+    background-image:linear-gradient(rgb(0,0,0,0.75),rgb(0,0,0,0.75),rgb(0,0,0,0.75),rgb(0,0,0,0.75)),url(login_backgrd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+background-position: center;
+overflow: hidden;
+}
+.container{
+    margin:75px 50px;
+    display: flex;
+    width: 800px;
+    height: 450px;
+    background-color: #e04f9e;
+    border-radius:10px;
+}
+.welcome_msg{
+    flex: 1;
+    background-color:#fff;
+    padding:20px 20px 20px 50px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius:10px;
+     border-top-left-radius: 10px;
+    border-bottom-left-radius:10px;
+}
+.welcome_msg img{
+    width: 100px;
+    height: 100px;
+}
+.login_div{
+    flex: 1;
+    background-color: #e04f9e;
+    border-radius: 20px;
+}
+center .welcome_back_img{
+    height: 140px;
+    width: 255px;
+}
+.welcome_msg h1{
+    font-family: "Helvetica";
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 80px;
+    color:#10439F;
+}
+.welcome_msg h2 {
+    color: #e04f9e;
+}
+.welcome_msg p{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 30px;
+}
+/*my div-form start here*/
+.div-form{
+    background-color: #ffffff;
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    padding-left:20px;
+    padding-right: 0px;
+    border-radius:5px;
+    margin:25px 50px 25px 50px;
+}
+.div-form h2{
+    font-family: "Helvetica";
+    font-weight: 700;
+    padding: 10px 0px;
+    color: #10439F;
+    font-size: 25px;
+    line-height: 30px;
+    font-style: normal;
+}
+.div-input{
+    display: flex;
+    align-items: center;
+    height: 15px;
+    width: 250px;
+    padding: 10px;
+    border: 1px solid #d2deee;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+}
+input{
+    background: none;
+    outline: none;
+    border: none;
+    width: 300px;
+    padding-left: 20px;
+ }
+ .icon{
+     color: #010020;
+ }
+ input::placeholder{
+    line-height: 24px;
+    font-weight: 400;
+    font-size: 14px;
+ }
+
+
+label{
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.div-form a{
+    text-decoration: none;
+    color:hsl(300, 100%, 25%);
+    font-size: 14px;
+    line-height: 24px;
+    font-family: 'Segoe UI';
+}
+
+input[type="checkbox"]{
+    width:20px;
+    height: 20px;
+    margin-top: 15px;
+}
+.div-login-btn{
+    border: none;
+background-color:#10439F;
+color: #fff;
+height: -1000px;
+margin-right: 20px;
+padding: 10px 100px;
+border-radius: 10px;
+margin-top: 10px;
+margin-bottom: -20px;
+}
+.div-login-btn:hover{
+    background-color: #e04f9e;
+    cursor:pointer;
+}
+.div-login-btn h5{
+    color: #fff;
+    font-family:Helvetica;
+    font-size: 11px;
+    font-family: 900;
+}
+
+.forgot-pwd:hover{
+    color: hsl(300, 100%, 25%);
+    border-bottom: 1px solid #d55d02;
+}
+.label-rem{    
+    padding-left: 10px;
+    font-size: 12px;
+    font-weight: 400;
+}
+button:hover{
+    background-color:#e04f9e;
+    cursor: pointer;
+}

@@ -1,0 +1,994 @@
+[02-Oct-2024 16:13:37 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:37 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:43 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:44 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:52 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:52 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:53 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:53 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:54 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:54 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:55 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:55 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:55 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:55 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:55 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:55 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:56 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:56 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:56 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:56 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:56 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:56 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:56 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:56 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:58 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:58 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:58 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:58 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:13:58 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:13:58 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:15:36 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:15:36 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(64): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:16:02 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:16:02 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(64): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:17:02 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:17:02 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(64): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:17:10 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:17:10 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(64): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:19:19 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:19:19 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(64): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:20:02 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:20:02 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:16
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(64): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 16
+[02-Oct-2024 16:29:36 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:29:36 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:13
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 13
+[02-Oct-2024 16:32:07 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:32:07 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:13
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 13
+[02-Oct-2024 16:33:01 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:33:01 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:13
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(56): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 13
+[02-Oct-2024 16:39:03 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 16:39:03 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:13
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(65): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 13
+[02-Oct-2024 16:42:50 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 62
+[02-Oct-2024 16:44:36 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 62
+[02-Oct-2024 17:44:32 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:32 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:34 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:34 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:36 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:36 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:38 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:38 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:38 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:38 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:39 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:39 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:43 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:43 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:44 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:44 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:44 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:44 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:45 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:45 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:45 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:45 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:45 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:45 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:46 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:46 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:47 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:47 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:47 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:47 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:48 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:48 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:48 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:48 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:44:48 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:44:48 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:45:08 UTC] PHP Warning:  Array to string conversion in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 10
+[02-Oct-2024 17:45:08 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php:19
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php(29): displayErrors()
+#1 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 19
+[02-Oct-2024 17:47:09 UTC] PHP Parse error:  Unmatched '}' in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 24
+[02-Oct-2024 17:47:51 UTC] PHP Parse error:  Unmatched '}' in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 24
+[02-Oct-2024 17:48:03 UTC] PHP Parse error:  Unmatched '}' in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/login.php on line 24
+[16-Dec-2024 14:55:13 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:55:13 UTC] PHP Warning:  Undefined variable $nativeID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 9
+[16-Dec-2024 14:55:21 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:55:21 UTC] PHP Warning:  Undefined variable $nativeID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 9
+[16-Dec-2024 14:58:42 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:58:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:58:44 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:58:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:58:45 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:58:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:58:46 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:58:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:58:46 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:58:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:58:47 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:58:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:58:48 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:58:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:58:48 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:58:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:58:51 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:58:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:58:52 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:58:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:58:52 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:58:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:58:58 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:58:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:19 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:19 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:19 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:19 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:19 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:19 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:19 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:19 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:19 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:19 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:22 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:23 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:24 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:24 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:24 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:26 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:26 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:27 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:32 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:32 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:32 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:32 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:32 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:32 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:32 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:32 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:32 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:32 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 14:59:34 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:34 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:35 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:35 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:37 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:37 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:37 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:38 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 14:59:38 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 14:59:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:26 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:26 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:26 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:26 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:26 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:26 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:26 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:26 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:26 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:26 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:31 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:33 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:33 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:35 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:35 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:35 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:36 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:38 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:39 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:39 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:39 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:01:44 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:44 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:47 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:47 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:47 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:49 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:49 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:50 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:50 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:52 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:52 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:53 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:54 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:01:54 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:01:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:41 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:45 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:46 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:46 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:46 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:47 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:48 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:49 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:49 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:49 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:49 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:49 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:49 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:49 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:49 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:49 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:49 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:03:51 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:52 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:52 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:52 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:56 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:56 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:57 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:57 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:03:58 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:03:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:02 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:02 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:03 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:03 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:27 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:27 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:27 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:27 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:27 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:27 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:27 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:27 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:27 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:27 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:30 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:30 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:30 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:30 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:30 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:30 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:30 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:30 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:30 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:30 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:33 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:33 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:33 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:33 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:33 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:33 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:33 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:33 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:33 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:33 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:04:37 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:38 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:38 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:38 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:39 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:39 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:40 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:42 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:42 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:43 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:44 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:44 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:04:46 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:04:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php:40
+Stack trace:
+#0 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php(40): PDOStatement->execute()
+#1 /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php(8): Products->quickView('shirts', NULL)
+#2 {main}
+  thrown in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/classes/Products.php on line 40
+[16-Dec-2024 15:05:05 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:05:05 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:05:05 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:05:05 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:05:05 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:05:05 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:05:05 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:05:05 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:05:05 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:05:05 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/index.php on line 211
+[16-Dec-2024 15:05:08 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:05:08 UTC] PHP Warning:  Undefined variable $nativeID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 9
+[16-Dec-2024 15:05:16 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:05:16 UTC] PHP Warning:  Undefined variable $nativeID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 9
+[16-Dec-2024 15:05:24 UTC] PHP Warning:  Undefined variable $shirtID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 8
+[16-Dec-2024 15:05:24 UTC] PHP Warning:  Undefined variable $nativeID in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/quickview.php on line 9
+[18-Dec-2024 11:37:26 UTC] PHP Parse error:  syntax error, unexpected token "--" in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/userDashboard.php on line 193
+[18-Dec-2024 11:37:29 UTC] PHP Parse error:  syntax error, unexpected token "--" in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/userDashboard.php on line 193
+[18-Dec-2024 11:37:36 UTC] PHP Parse error:  syntax error, unexpected token "--" in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/userDashboard.php on line 193
+[18-Dec-2024 11:37:45 UTC] PHP Parse error:  syntax error, unexpected token "--" in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/userDashboard.php on line 193
+[05-Jan-2025 23:02:31 UTC] PHP Fatal error:  Cannot redeclare getEachShirtProducts() (previously declared in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/userDashboard.php:205) in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/userDashboard.php on line 726
+[05-Jan-2025 23:02:34 UTC] PHP Fatal error:  Cannot redeclare getEachShirtProducts() (previously declared in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/userDashboard.php:205) in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/userDashboard.php on line 726
+[05-Jan-2025 23:02:57 UTC] PHP Fatal error:  Cannot redeclare getEachShirtProducts() (previously declared in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/userDashboard.php:205) in /home/raolaksc/public_html/mayorsky.raolakschool.org/E-COMMERCE-GITHUB-VERSION/userDashboard.php on line 726

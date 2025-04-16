@@ -1,0 +1,142 @@
+/* Footer styles */
+footer {
+    margin-top: 60px;
+    width: 100vw;
+    padding-left: 20px;
+    background-color: #f6f6f6;
+    overflow-x: hidden;
+}
+
+footer .wrapper {
+    display: flex;
+    width: 100%;
+}
+
+footer .brand_logo_col {
+    padding-top: 5px;
+    width: 35%;
+    background-color: #f6f6f6;
+    overflow: hidden;
+}
+
+.brand_logo_col .logo {
+    width: 100px;
+    height: 100px;
+}
+
+.brand_logo_col p {
+    font-size: 14px;
+    font-family: 'lato';
+    color: #6b6b6a;
+    line-height: 20px;
+    padding-bottom: 10px;
+}
+
+.call_us {
+    width: 100%;
+    display: flex;
+}
+
+.call_us h1 {
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.call_us span {
+    color: #6b6b6a;
+    font-size: 10px;
+    font-weight: 700;
+    font-family: 'lato';
+}
+
+.social_handle_icons {
+    color: #666666;
+    width: 20px;
+    height: 20px;
+    padding-left: 20px;
+    padding-top: 25px;
+    line-height: 20px;
+}
+
+footer .quick_links_columns {
+    padding-top: 40px;
+    display: flex;
+    width: 65%;
+    background-color: #e04f9e;
+}
+
+.quick_link_col1 {
+    width: 25%;
+    color: #fff;
+    padding-left: 30px;
+}
+
+.quick_links_columns h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    font-family: 'lato';
+    font-size: 15px;
+    font-weight: 600;
+    width: fit-content;
+}
+
+.quick_link_col1 ul {
+    list-style: none;
+}
+
+.quick_link_col1 ul li a {
+    text-decoration: none;
+    color: #fff;
+    line-height: 40px;
+    font-family: 'lato';
+    font-size: 15px;
+}
+
+.quick_link_col2 {
+    width: 25%;
+    color: #fff;
+    margin-left: 40px;
+}
+
+.quick_link_col2 ul {
+    list-style: none;
+}
+
+.quick_link_col2 ul li a {
+    text-decoration: none;
+    color: #fff;
+    line-height: 40px;
+    font-family: 'lato';
+    font-size: 15px;
+}
+
+.quick_link_col3 {
+    color: #fff;
+    margin-left: 40px;
+}
+
+.quick_link_col3 p {
+    line-height: 50px;
+}
+
+.subscribe {
+    background-color: #c53686;
+    height: 40px;
+    border-radius: 20px;
+    width: 270px;
+}
+
+.subscribe input {
+    outline: none;
+    border: none;
+    padding: 15px 0px 15px 10px;
+    height: 10px;
+    border-radius: 20px 0px 0px 20px;
+    width: 180px;
+}
+
+.quick_link_col3 p img {
+    padding-top: 10px;
+    width: 50%;
+}

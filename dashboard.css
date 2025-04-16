@@ -1,0 +1,348 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000;
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;  
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
+
+
+/*My codee starts here*/
+.brand_logo_welcome_header{
+    display: flex;
+    background-color: hsl(300, 100%, 25%);
+    width: 100%;
+    height: 230px;
+    position: relative;
+}
+.brand_logo{
+width: 15%;
+}
+.logo{
+    background-color: #fff;
+    width: 100%;
+    height: 70px;
+}
+.logo h1, p{
+    font-size: 10px;
+    font-family: sans-serif;
+    color: #fff;
+    line-height: 15px;
+}
+.logo img{
+    width: 85px;
+    height: 85px;
+}
+.welcome_back_msg{
+    width: 85%;
+}
+.welcome_back_msg h2{
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-top: 80px;
+    color: #fff;
+    line-height: 20px;
+    padding-left: 43px;
+}
+.welcome_back_msg p{
+    font-size: 10px;
+    font-family: sans-serif;
+    color: #fff;
+    line-height: 25px;
+    padding-left: 44px;
+}
+main{
+    display: flex;
+    background-color: #f4f7fc;
+}
+.side_menu_container{
+    width:15%;
+    background-color: #f4f7fc;
+    height: 368px;
+    position: relative;
+   
+}
+.side_menu{
+    width: 100%;
+    height: 468px;
+    background-color: #fff;
+    position: absolute;
+    top: -100px;
+}
+nav ul{
+    height: 100%;
+    width: 100%;
+    list-style: none;
+}
+nav ul li{
+  padding-left: 15px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #606f74;
+    line-height: 75px;
+    outline: none;
+    font-family: 'jost';
+}
+nav span{
+    color: #010020;
+    padding-right: 10px;
+}
+.content_container{
+    width: 85%;
+    background-color:#f4f7fc;
+    position: relative;   
+}
+.content_container .wrapper{
+    position: absolute;
+    width: 90%;
+    height: 460px;
+     left: 55px;
+    top: -100px;
+}
+.box_container{
+    display: flex;
+    width: 100%;
+    height: 125px;
+    position: relative;
+    top:40px;
+}
+.box1{
+    padding-left: 15px;
+    flex: 1;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 1px 1px 0px 0px rgb(0, 0,0,0.1);
+}
+.box1 p{
+    font-family: 'jost';
+    color: #000;
+    line-height: 40px;
+    font-size: 10px;
+
+}
+.box1 #Amount{
+    font-size: 20px;
+    font-family: 'jost';
+}
+.box1 span {
+    color: #c53284;
+    font-size: 13px;
+}
+.box1 a{
+    text-decoration: none;
+}
+.box1 .circle{
+    font-family: 'jost';
+    color: #fff;
+    width: 35px;
+    height: 17px;
+    border-radius:50%;
+    background-color: #10439F;
+    padding: 8px 0px;
+    position: absolute;
+    top:10px;
+    left:170px;
+}
+.box2,.box3,.box4{
+    padding-left: 15px;
+    flex:1;
+    margin-left: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 1px 1px 0px 0px rgb(0, 0,0,0.1)
+}
+.box2 a{
+    text-decoration: none;
+}
+.box2 .circle{
+    font-family: 'jost';
+    color: #fff;
+    width: 35px;
+    height: 17px;
+    border-radius:50%;
+    background-color: #10439F;
+    padding: 8px 0px;
+    position: absolute;
+    top:10px;
+    left: 420px;
+}
+.box2 p{
+    font-family: 'jost';
+    color: #000;
+    line-height: 40px;
+    font-size: 10px;
+
+}
+.box2 #user_account_status{
+    font-size: 20px;
+    font-family: 'jost';
+}
+.box2 span {
+    color: #c53284;
+    font-size: 13px;
+}
+.box3 a{
+    text-decoration: none;
+}
+.box3 .circle{
+    font-family: 'jost';
+    color: #fff;
+    width: 35px;
+    height: 17px;
+    border-radius:50%;
+    background-color: #10439F;
+    padding: 8px 0px;
+    position: absolute;
+    top:10px;
+    left: 670px;
+}
+.box3 p{
+    font-family: 'jost';
+    color: #000;
+    line-height: 40px;
+    font-size: 10px;
+}
+.box3 #user_status{
+    font-size: 20px;
+    font-family: 'jost';
+}
+.box3 span {
+    color: #c53284;
+    font-size: 13px;
+}
+.box4 a{
+    text-decoration: none;
+}
+.box4 .circle{
+    font-family: 'jost';
+    color: #fff;
+    width: 35px;
+    height: 17px;
+    border-radius:50%;
+    background-color: #10439F;
+    padding: 8px 0px;
+    position: absolute;
+    top:10px;
+    left: 920px;
+}
+.box4 p{
+    font-family: 'jost';
+    color: #000;
+    line-height: 40px;
+    font-size: 10px;
+}
+.box4 #phone_number{
+    font-size: 20px;
+    font-family: 'jost';
+}
+.box4 span {
+    color: #c53284;
+    font-size: 13px;
+}
+
+.wrapper .gallery_with_account_details{
+    display: flex;
+    margin-top: 60px;
+   
+} 
+.user_account_details{
+    width: 30%;
+    background-color: #fff;
+    margin-right: 20px;
+}
+.user_account_details p{
+    color: #464778;
+}
+.Add_to_cart_gallery{
+    width: 70%;
+    background-color: #fff;
+}
+
