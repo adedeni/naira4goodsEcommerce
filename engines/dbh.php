@@ -1,9 +1,9 @@
 <?php
 //connecting to db raolakadmin db
 $dbusername = 'root';
-$dbpassword = '';
+$dbpassword = 'root';
 $host = "localhost";
-$dbname = 'raolakadmin';
+$dbname = 'naira4goods';
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $dbpassword, $dbusername);
     $pdo -> setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);

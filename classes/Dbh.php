@@ -2,7 +2,7 @@
 class Dbh{
     private $con ="mysql:host=localhost;dbname=naira4goods";
     private $dbusername = "root";
-    private $dbpwd = "";
+    private $dbpwd = "root";
     protected function connect(){
         try {
             $pdo = new PDO($this->con, $this->dbusername, $this->dbpwd);

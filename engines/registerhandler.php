@@ -17,7 +17,3 @@
                 header("Location: ../register.php");
                 die();
             }
-        
-        
-       
-?>
