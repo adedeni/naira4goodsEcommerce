@@ -1,53 +1,75 @@
 <?php
 session_start();
-require_once 'Register.php';
-class RecoverPassword extends Register{
-            protected $pwd;
-            protected $confirmpwd;
-            private $success=[];
-           // private $errors=array();
-            public function __construct($pwd, $confirmpwd)
-            {
-                $this->pwd = $pwd;
-                $this->confirmpwd = $confirmpwd;
-            }
+require_once __DIR__ . '/Dbh.php';
+
+class RecoverPassword extends Dbh {
+    protected $pwd;
+    protected $confirmpwd;
+    protected $errors = array();
+    private $success = [];
+    
+    public function __construct($pwd, $confirmpwd) {
+        $this->pwd = $pwd;
+        $this->confirmpwd = $confirmpwd;
+    }
+    
+    private function validatePassword() {
+        if (empty($this->pwd) || empty($this->confirmpwd)) {
+            $this->errors[] = "Both password fields are required";
+            return false;
+        }
+        
+        if ($this->pwd !== $this->confirmpwd) {
+            $this->errors[] = "Passwords do not match";
+            return false;
+        }
+        
+        if (strlen($this->pwd) < 6) {
+            $this->errors[] = "Password must be at least 6 characters long";
+            return false;
+        }
+        
+        if (!preg_match('/[A-Za-z]/', $this->pwd) || !preg_match('/[0-9]/', $this->pwd)) {
+            $this->errors[] = "Password must contain both letters and numbers";
+            return false;
+        }
+        
+        return true;
+    }
+    
+    public function updatePwd() {
+        if (!$this->validatePassword()) {
+            $_SESSION['errors'] = $this->errors;
+            header("Location: ../recoverPassword.php");
+            exit();
+        }
+        
+        try {
+            $cost = ['cost' => 12];
+            $hashedPwd = password_hash($this->pwd, PASSWORD_BCRYPT, $cost);
             
-            private function updateNewPwdTODb(){
-                $option =[
-                    'cost'=>12,
-                ];
-                $hashedpwd =password_hash($this->pwd, PASSWORD_BCRYPT, $option);
-                $userEmail=$_SESSION['userEmail'];
-                $query="UPDATE users SET pwd=:pwd WHERE email=:email;";
-                $stmt=$this->connect()->prepare($query);
-                $stmt->bindParam(":email",$userEmail);
-                $stmt->bindParam(":pwd",$hashedpwd);
-                $stmt->execute();
-                $this->success[] = "Password reset Successfully!";
+            $query = "UPDATE users SET pwd = :pwd WHERE email = :email AND otp = :otp";
+            $stmt = $this->connect()->prepare($query);
+            $stmt->bindParam(":pwd", $hashedPwd);
+            $stmt->bindParam(":email", $_SESSION['userEmail']);
+            $stmt->bindParam(":otp", $_SESSION['otp']);
+            $stmt->execute();
+            
+            if ($stmt->rowCount() > 0) {
+                // Clear OTP from session
+                unset($_SESSION['otp']);
+                $_SESSION['success'] = ["Password updated successfully. You can now login with your new password."];
+                header("Location: ../login.php");
+                exit();
+            } else {
+                $_SESSION['errors'] = ["Failed to update password. Please try again."];
+                header("Location: ../recoverPassword.php");
+                exit();
             }
-            //error handler
-            private function fieldEmpty(){
-                if(empty($this->pwd) || empty($this->confirmpwd)){
-                            $this->errors[] = "All fields must be field";    
-                }
-            }
-            public function updatePwd(){
-                    //error checkers called from Register class.
-                    $this->notValidPwd();
-                    $this->newPwd_is_more_than6();
-                   // $this->inputFieldEmpty();
-                   $this->fieldEmpty();
-                    $this->pwdNotThesame();
-                    $errors = $this->getErrors(); //getErrors is a function from Register class that stores array of errors so as to enchance code usability.
-                    if(!empty($errors)){
-                        $_SESSION['errors'] = $errors;
-                       // print_r($_SESSION['errors']);
-                        header("Location: ../recoverPassword.php");
-                            die();
-                    }
-                    $this->updateNewPwdTODb();
-                     $_SESSION['success'] = $this->success;
-                    header("Location: ../recoverPassword.php");
-                   
-            }
+        } catch (PDOException $e) {
+            $_SESSION['errors'] = ["An error occurred. Please try again."];
+            header("Location: ../recoverPassword.php");
+            exit();
+        }
+    }
 }

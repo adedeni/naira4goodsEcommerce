@@ -1,8 +1,9 @@
 <?php
 session_start();
-if(!isset($_SESSION['otp'])){
-header("Location: register.php");
-die();
+if(!isset($_SESSION['otp']) || !isset($_SESSION['userEmail'])){
+    $_SESSION['errors'] = ["Session expired. Please try again."];
+    header("Location: enterOtp.php");
+    exit();
 }
 function displayErrors() {
     $output = '';

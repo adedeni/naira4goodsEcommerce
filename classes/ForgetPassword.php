@@ -1,8 +1,8 @@
 <?php
-//session_start();
-//require_once 'Dbh.php';
-require_once 'Register.php';
-class ForgotPassword extends Register{
+session_start();
+require_once __DIR__ . '/Dbh.php';
+//require_once 'Register.php';
+class ForgotPassword extends Dbh {
             protected $email;
             private $username;
             private $phoneNo;
@@ -32,7 +32,7 @@ class ForgotPassword extends Register{
                 // echo "I'm here";
                 $userEmail = $this->getUserEmail();
                 // var_dump($userEmail);
-                if ($this->email != $userEmail['email'])
+                if (!$userEmail || $this->email != $userEmail['email'])
                 $this -> errors[]= "Email doesn't exist";
                  
             }
@@ -42,11 +42,11 @@ class ForgotPassword extends Register{
             }
             protected function updateOtp(){
                 $otp = $this->getOtp();
-                $query = "UPDATE users SET otp = :otp WHERE email= :email ;";
-                $stmt =$this->connect()->prepare($query);
+                $query = "UPDATE users SET otp = :otp, updated_at = NOW() WHERE email = :email;";
+                $stmt = $this->connect()->prepare($query);
                 $stmt->bindParam(":email", $this->email);
                 $stmt->bindParam(":otp", $otp);
-                $stmt ->execute();
+                $stmt->execute();
             }
             public function submitEmail(){
                // $this->EmailNotValid();
